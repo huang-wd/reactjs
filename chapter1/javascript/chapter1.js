@@ -47,6 +47,6 @@ var data = [
         "description": "Created new account"
     }
 ];
-ReactDOM.render(<App headings={headings} data={data} title={title} />, document.body);
+ReactDOM.render(<App headings={headings} data={data} title={title}/>, document.body);
 
 
